@@ -1,5 +1,5 @@
   const video = document.getElementById("bgVideo");
-  const sources = ["images/Movie1.mp4", "images/Movie2.mp4"];
+  const sources = ["images/Movie5.webv", "images/Movie2.webv"];
   let current = 0;
 
   function playNextVideo() {
